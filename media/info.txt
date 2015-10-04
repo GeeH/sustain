@@ -1,0 +1,8 @@
+COLORS
+
+Dark green (leaf shadow): #009B00 (0, 155, 0)
+Medium green (leaf): #00B200 (0, 178, 0)
+Light green (dew): #6AFF6A (106, 255, 106)
+Brown: #661A00 (102, 26, 0)
+
+Made on Fireworks
